@@ -1158,6 +1158,7 @@ a {
   background-color: transparent; }
 
 .analysis-form-close {
+  display: block;
   color: #fff;
   background-color: #de2b24;
   text-align: center;
